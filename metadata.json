@@ -1,0 +1,6 @@
+{
+  "name": "BayFam Bakery",
+  "description": "A website for BayFam Bakery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
